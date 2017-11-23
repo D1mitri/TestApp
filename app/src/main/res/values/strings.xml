@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="add_user">Добавить</string>
+    <string name="show_users">Пользователи</string>
+    <string name="username">Имя пользователя</string>
+    <string name="email">Email</string>
+    <string name="birthday">День рождения: %1$s</string>
+    <string name="change_birthday">Изменить</string>
+    <string name="save">Сохранить</string>
+    <string name="empty_username">Введите имя пользователя</string>
+    <string name="empty_email">Заполните email</string>
+    <string name="title_add">Добавить пользователя</string>
+    <string name="title_list_users">Список пользователей</string>
+    <string name="users_list_item">Имя: %1$s \nEmail: %2$s \nДень рождения: %3$s</string>
+    <string name="user_saved">Пользователь сохранен</string>
+</resources>
